@@ -12,7 +12,7 @@ The main inspiration for Plantfi came from my newfound hobby of taking care of h
 
 The project focuses on two key components: arduino and an app. For the arduino focus, I put together a smal IoT device that uses a capacitative soil moisture sensor to get moisture percentage in soil. The data from the sensor is sent to a realtime Firebase database that constantly updates with new information. For the app, I created an engaging anf fun app using Flutter. The app shows the moisture valuee while also adding a bit of a flare like plant naming, custom drawn plant icons, and soon much more!
 
-### Possible areas of application
+### Possible areas of application:
 
 - Plant health tracker to see your houseplants' health
 - Soil monitor for a community garden plot
