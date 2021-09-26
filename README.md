@@ -14,10 +14,10 @@ The project focuses on two key components: arduino and an app. For the arduino f
 
 ### Possible areas of application
 
-I foresee quite a few areas of application for this project, but here are a few:
-- Plant health tracker to see your houseplants' health
-- Soil monitor for a community garden plot
-- Moisture measuring for an experimental plant on Mars
+- I foresee quite a few areas of application for this project, but here are a few:
+    - Plant health tracker to see your houseplants' health
+    - Soil monitor for a community garden plot
+    - Moisture measuring for an experimental plant on Mars
 
 ## Ingredients
 
